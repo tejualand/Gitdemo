@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-10T12:19:57 IST" name="Suite" finished-at="2021-06-10T12:19:57 IST" duration-ms="53">
+    <groups>
+    </groups>
+    <test started-at="2021-06-10T12:19:57 IST" name="Test" finished-at="2021-06-10T12:19:57 IST" duration-ms="53">
+      <class name="qaclickacademy.mavenjava.RestAPITest">
+        <test-method signature="sample()[pri:0, instance:qaclickacademy.mavenjava.RestAPITest@5ccddd20]" started-at="2021-06-10T12:19:57 IST" name="sample" finished-at="2021-06-10T12:19:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+      </class> <!-- qaclickacademy.mavenjava.RestAPITest -->
+      <class name="qaclickacademy.mavenjava.SeleniumTest">
+        <test-method signature="sample2()[pri:0, instance:qaclickacademy.mavenjava.SeleniumTest@1ffe63b9]" started-at="2021-06-10T12:19:57 IST" name="sample2" finished-at="2021-06-10T12:19:57 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample2 -->
+      </class> <!-- qaclickacademy.mavenjava.SeleniumTest -->
+      <class name="qaclickacademy.mavenjava.AppiumTest">
+        <test-method signature="sample3()[pri:0, instance:qaclickacademy.mavenjava.AppiumTest@1ed1993a]" started-at="2021-06-10T12:19:57 IST" name="sample3" finished-at="2021-06-10T12:19:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample3 -->
+      </class> <!-- qaclickacademy.mavenjava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
