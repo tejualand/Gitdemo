@@ -7,6 +7,8 @@ public class RestAPITest {
 	public void sample()
 	{
 		System.out.println("hello");
+		System.out.println("hello1");
+
 	}
 
 }
